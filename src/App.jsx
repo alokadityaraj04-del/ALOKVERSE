@@ -333,14 +333,15 @@ function App() {
             GITHUB ↗
           </a>
 
-          <a
-            href="https://www.linkedin.com/"
-            target="_blank"
-            rel="noreferrer"
-            className="contact-btn"
-          >
-            LINKEDIN ↗
-          </a>
+          
+<a
+  href="https://www.linkedin.com/in/aditya-raj-391b61360/"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  LinkedIn
+</a>
+
 
         </div>
       </section>
