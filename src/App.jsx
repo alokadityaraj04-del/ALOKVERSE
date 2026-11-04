@@ -320,9 +320,13 @@ function App() {
 
         <div className="contact-buttons">
 
-          <a href="mailto:your-email@example.com" className="contact-btn">
-            ✉ EMAIL ME
-          </a>
+          
+<a
+  href="mailto:alokadityaraj04@gmail.com"
+>
+  Email Me
+</a>
+
 
           <a
             href="https://github.com/alokadityaraj04-del"
